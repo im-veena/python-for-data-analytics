@@ -9,6 +9,7 @@ I am currently a beginner and using this repository to:
 
 ## Topics covered
 - Type conversion
+- conditional statement
 - Basic programs
 
 ## Tools used
